@@ -21,7 +21,7 @@ Start the program and display the results.
 
 Install the project locally
 ```bash
-https://github.com/SenayYakut/Adhoc.git
+https://github.com/SenayYakut/Rock_Paper_Scissors.git
 ```
 
 ## Usage
